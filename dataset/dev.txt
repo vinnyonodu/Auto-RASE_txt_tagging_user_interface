@@ -1,0 +1,3626 @@
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+of I-Requirement
+30,000m2 I-Requirement
+or I-Requirement
+more I-Requirement
+
+; B-Selection
+retail B-Selection
+premises I-Selection
+
+with B-Selection
+a I-Selection
+
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+of I-Requirement
+2500m2 I-Requirement
+or I-Requirement
+more I-Requirement
+
+; B-Selection
+sport B-Selection
+and B-Selection
+leisure B-Selection
+buildings B-Selection
+with I-Selection
+a I-Selection
+
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+more I-Requirement
+than I-Requirement
+5000m2 I-Requirement
+
+; B-Selection
+hospitals B-Selection
+and B-Selection
+primary B-Selection
+care I-Selection
+centres I-Selection
+
+; B-Selection
+crematoria B-Selection
+and B-Selection
+cemetery B-Selection
+buildings B-Application
+. B-Application
+at B-Requirement
+least I-Requirement
+one I-Requirement
+changing I-Requirement
+places I-Requirement
+toilet I-Requirement
+is I-Requirement
+provided I-Requirement
+
+in B-Requirement
+the I-Requirement
+following I-Requirement
+types I-Requirement
+of I-Requirement
+building: I-Requirement
+
+assembly B-Selection
+, B-Selection
+recreation B-Selection
+and B-Selection
+entertainment B-Selection
+buildings B-Selection
+(see I-Selection
+note) I-Selection
+with I-Selection
+a I-Selection
+
+capacity B-Requirement
+for I-Requirement
+350 I-Requirement
+or I-Requirement
+more I-Requirement
+people I-Requirement
+
+; B-Selection
+or B-Selection
+a I-Selection
+
+collection B-Application
+of I-Application
+smaller I-Application
+buildings I-Application
+
+associated B-Selection
+with I-Selection
+a I-Selection
+site I-Selection
+used I-Selection
+for I-Selection
+
+assembly B-Selection
+, B-Selection
+recreation B-Selection
+or B-Selection
+entertainment B-Selection
+, B-Selection
+such I-Selection
+as I-Selection
+zoos, I-Selection
+theme I-Selection
+parks I-Selection
+and I-Selection
+venues I-Selection
+for I-Selection
+sport I-Selection
+and I-Selection
+exhibitions, I-Selection
+with I-Selection
+a I-Selection
+
+capacity B-Requirement
+of I-Requirement
+2000 I-Requirement
+people I-Requirement
+or I-Requirement
+more I-Requirement
+
+; B-Selection
+shopping B-Selection
+centres I-Selection
+
+/ B-Selection
+malls B-Selection
+or B-Selection
+retail B-Selection
+parks I-Selection
+
+with B-Selection
+a I-Selection
+
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+of I-Requirement
+30,000m2 I-Requirement
+or I-Requirement
+more I-Requirement
+
+; B-Selection
+retail B-Selection
+premises I-Selection
+
+with B-Selection
+a I-Selection
+
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+of I-Requirement
+2500m2 I-Requirement
+or I-Requirement
+more I-Requirement
+
+; B-Selection
+sport B-Selection
+and B-Selection
+leisure B-Selection
+buildings B-Selection
+with I-Selection
+a I-Selection
+
+gross B-Requirement
+floor I-Requirement
+area I-Requirement
+more I-Requirement
+than I-Requirement
+5000m2 I-Requirement
+
+; B-Selection
+hospitals B-Selection
+and B-Selection
+primary B-Selection
+care I-Selection
+centres I-Selection
+
+; B-Selection
+crematoria B-Selection
+and B-Selection
+cemetery B-Selection
+buildings B-Application
+. B-Application
+Wheelchair-accessible B-Requirement
+unisex B-Requirement
+toilets B-Application
+will B-Requirement
+satisfy I-Requirement
+Requirement I-Requirement
+M1 I-Requirement
+or I-Requirement
+M3 I-Requirement
+if: I-Requirement
+
+one B-Requirement
+is I-Requirement
+located I-Requirement
+as I-Requirement
+close I-Requirement
+as I-Requirement
+possible I-Requirement
+to I-Requirement
+the I-Requirement
+
+entrance B-Selection
+and/or B-Requirement
+waiting B-Selection
+area I-Selection
+
+of B-Requirement
+the I-Requirement
+building; I-Requirement
+
+they B-Requirement
+are I-Requirement
+not I-Requirement
+located I-Requirement
+in I-Requirement
+a I-Requirement
+way I-Requirement
+that I-Requirement
+compromises I-Requirement
+the I-Requirement
+privacy I-Requirement
+of I-Requirement
+users I-Requirement
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+located I-Requirement
+in I-Requirement
+a I-Requirement
+similar I-Requirement
+position I-Requirement
+on I-Requirement
+each I-Requirement
+floor I-Requirement
+
+of B-Application
+a I-Application
+
+multi-storey B-Requirement
+building B-Application
+, B-Application
+and B-Requirement
+allow B-Requirement
+for I-Requirement
+right- I-Requirement
+and I-Requirement
+left-hand I-Requirement
+transfer I-Requirement
+on I-Requirement
+alternate I-Requirement
+floors I-Requirement
+
+; B-Requirement
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+unisex I-Application
+toilet I-Application
+is I-Application
+available I-Application
+
+in B-Requirement
+other B-Application
+than I-Application
+multi-storey I-Application
+buildings I-Application
+
+, B-Requirement
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+; B-Requirement
+when B-Application
+it B-Application
+is I-Application
+the I-Application
+only I-Application
+
+toilet B-Requirement
+facility I-Requirement
+in I-Requirement
+the I-Requirement
+building I-Requirement
+
+, B-Application
+the B-Requirement
+width I-Requirement
+is I-Requirement
+increased I-Requirement
+from I-Requirement
+1.5m I-Requirement
+to I-Requirement
+
+2m B-Requirement
+and B-Requirement
+it B-Requirement
+includes I-Requirement
+a I-Requirement
+standing I-Requirement
+height I-Requirement
+washbasin I-Requirement
+
+, B-Requirement
+in I-Requirement
+addition I-Requirement
+to I-Requirement
+the I-Requirement
+
+finger B-Requirement
+rinse I-Requirement
+basin I-Requirement
+
+associated B-Requirement
+with I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+
+located B-Requirement
+on I-Requirement
+accessible I-Requirement
+routes I-Requirement
+
+that B-Application
+are B-Requirement
+direct B-Requirement
+and B-Requirement
+obstruction B-Requirement
+free I-Requirement
+
+; B-Requirement
+doors B-Application
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+
+fixed B-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+any B-Requirement
+wheelchair I-Requirement
+user I-Requirement
+does I-Requirement
+not I-Requirement
+have I-Requirement
+to I-Requirement
+travel: I-Requirement
+
+more B-Requirement
+than I-Requirement
+
+40m B-Requirement
+on B-Requirement
+the I-Requirement
+same I-Requirement
+floor I-Requirement
+, I-Requirement
+
+unless B-Exception
+a I-Exception
+greater I-Exception
+distance I-Exception
+can I-Exception
+be I-Exception
+agreed I-Exception
+with I-Exception
+the I-Exception
+building I-Exception
+control I-Exception
+body I-Exception
+
+on B-Requirement
+the I-Requirement
+grounds I-Requirement
+that I-Requirement
+the I-Requirement
+circulation I-Requirement
+route I-Requirement
+is I-Requirement
+unobstructed, I-Requirement
+e.g. I-Requirement
+by I-Requirement
+the I-Requirement
+installation I-Requirement
+of I-Requirement
+doors I-Requirement
+with I-Requirement
+hold-open I-Requirement
+devices; I-Requirement
+
+more B-Requirement
+than I-Requirement
+a I-Requirement
+
+40m B-Requirement
+combined B-Requirement
+horizontal I-Requirement
+distance I-Requirement
+where I-Requirement
+the I-Requirement
+
+unisex B-Application
+toilet I-Application
+accommodation I-Application
+is I-Application
+on I-Application
+another I-Application
+floor I-Application
+of I-Application
+the I-Application
+building I-Application
+
+, B-Application
+but B-Requirement
+is I-Requirement
+
+accessible B-Requirement
+by I-Requirement
+passenger I-Requirement
+lift I-Requirement
+
+(if B-Selection
+a I-Selection
+
+lifting B-Requirement
+platform I-Requirement
+is I-Requirement
+installed I-Requirement
+
+, B-Selection
+vertical B-Requirement
+travel I-Requirement
+to I-Requirement
+a I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+is I-Requirement
+limited I-Requirement
+to I-Requirement
+one I-Requirement
+storey I-Requirement
+
+); B-Selection
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+dimensions I-Requirement
+of, I-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+fittings I-Requirement
+within, I-Requirement
+a I-Requirement
+
+wheelchair-accessible B-Requirement
+unisex I-Requirement
+toilet I-Requirement
+comply I-Requirement
+with I-Requirement
+Diagram I-Requirement
+18 I-Requirement
+
+; B-Requirement
+where B-Application
+the I-Application
+
+horizontal B-Application
+support I-Application
+rail I-Application
+
+on B-Application
+the I-Application
+
+wall B-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+is B-Application
+set B-Requirement
+with I-Requirement
+the I-Requirement
+minimum I-Requirement
+spacing I-Requirement
+from I-Requirement
+the I-Requirement
+wall I-Requirement
+
+, B-Requirement
+an I-Requirement
+additional I-Requirement
+
+drop-down B-Requirement
+rail I-Requirement
+is I-Requirement
+provided I-Requirement
+
+on B-Requirement
+the I-Requirement
+wall I-Requirement
+side I-Requirement
+
+at B-Requirement
+a I-Requirement
+
+distance B-Requirement
+of I-Requirement
+320mm I-Requirement
+from I-Requirement
+the I-Requirement
+centre I-Requirement
+line I-Requirement
+of I-Requirement
+the I-Requirement
+WC; I-Requirement
+
+where B-Application
+the I-Application
+
+horizontal B-Application
+support I-Application
+rail I-Application
+
+on B-Application
+the I-Application
+
+wall B-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+is B-Application
+set B-Requirement
+so I-Requirement
+that I-Requirement
+its I-Requirement
+centre I-Requirement
+line I-Requirement
+is I-Requirement
+400mm I-Requirement
+from I-Requirement
+the I-Requirement
+centre I-Requirement
+line I-Requirement
+of I-Requirement
+the I-Requirement
+WC I-Requirement
+
+, B-Application
+there B-Requirement
+is I-Requirement
+
+no B-Requirement
+additional I-Requirement
+drop-down I-Requirement
+rail I-Requirement
+
+; B-Requirement
+the B-Requirement
+heights I-Requirement
+and I-Requirement
+arrangement I-Requirement
+of I-Requirement
+fittings I-Requirement
+in I-Requirement
+a I-Requirement
+wheelchair-accessible I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+19 I-Requirement
+
+and, B-Requirement
+as I-Requirement
+appropriate, I-Requirement
+
+Diagram B-Requirement
+20 I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+alarm I-Requirement
+system I-Requirement
+is I-Requirement
+provided I-Requirement
+
+, B-Requirement
+complying I-Requirement
+with I-Requirement
+
+5.4 B-Requirement
+; B-Requirement
+the B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+call I-Requirement
+signal I-Requirement
+
+outside B-Requirement
+the I-Requirement
+toilet I-Requirement
+compartment I-Requirement
+
+is B-Application
+located B-Requirement
+so I-Requirement
+that I-Requirement
+it I-Requirement
+can I-Requirement
+be I-Requirement
+easily I-Requirement
+seen I-Requirement
+
+and B-Requirement
+heard B-Requirement
+by I-Requirement
+those I-Requirement
+able I-Requirement
+to I-Requirement
+give I-Requirement
+assistance I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+pull I-Requirement
+cord I-Requirement
+
+is B-Requirement
+easily B-Requirement
+identifiable I-Requirement
+
+(see B-Requirement
+4.30(e)) B-Requirement
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+WC I-Requirement
+
+and B-Requirement
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+close I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+any B-Requirement
+heat B-Application
+emitters I-Application
+
+are B-Requirement
+located B-Requirement
+so I-Requirement
+that I-Requirement
+they I-Requirement
+do I-Requirement
+not I-Requirement
+restrict I-Requirement
+the I-Requirement
+minimum I-Requirement
+clear I-Requirement
+wheelchair I-Requirement
+manoeuvring I-Requirement
+space I-Requirement
+
+, B-Requirement
+nor I-Requirement
+the I-Requirement
+
+space B-Requirement
+beside I-Requirement
+the I-Requirement
+WC I-Requirement
+used I-Requirement
+for I-Requirement
+transfer I-Requirement
+from I-Requirement
+the I-Requirement
+wheelchair I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+WC B-Requirement
+pans I-Requirement
+conform I-Requirement
+to I-Requirement
+BS I-Requirement
+EN I-Requirement
+997 I-Requirement
+
+:2012 B-Requirement
+in I-Requirement
+terms I-Requirement
+of I-Requirement
+key I-Requirement
+dimensions I-Requirement
+
+in B-Requirement
+order I-Requirement
+to I-Requirement
+
+accommodate B-Requirement
+the I-Requirement
+use I-Requirement
+of I-Requirement
+a I-Requirement
+variable I-Requirement
+height I-Requirement
+toilet I-Requirement
+seat I-Requirement
+riser I-Requirement
+
+(see B-Requirement
+5.9); I-Requirement
+
+cisterns B-Application
+for B-Requirement
+WCs B-Application
+that B-Requirement
+will I-Requirement
+be I-Requirement
+
+used B-Application
+by I-Application
+wheelchair I-Application
+users I-Application
+
+have B-Requirement
+their I-Requirement
+
+flushing B-Exception
+mechanism I-Exception
+positioned I-Exception
+on I-Exception
+the I-Exception
+open I-Exception
+
+or B-Requirement
+transfer B-Exception
+side I-Exception
+of I-Exception
+the I-Exception
+space I-Exception
+
+, B-Requirement
+irrespective I-Requirement
+of I-Requirement
+handing. I-Requirement
+
+Unisex B-Requirement
+wheelchair-accessible I-Requirement
+toilet I-Requirement
+with I-Requirement
+corner I-Requirement
+WC I-Requirement
+
+Heights B-Requirement
+and I-Requirement
+arrangement I-Requirement
+of I-Requirement
+fittings I-Requirement
+in I-Requirement
+a I-Requirement
+unisex I-Requirement
+wheelchair-accessible I-Requirement
+toilet I-Requirement
+(looking I-Requirement
+towards I-Requirement
+wall I-Requirement
+A I-Requirement
+in I-Requirement
+diagram I-Requirement
+18) I-Requirement
+
+Height B-Requirement
+of I-Requirement
+various I-Requirement
+fittings I-Requirement
+in I-Requirement
+toilet I-Requirement
+accommodation I-Requirement
+
+Wheelchair-accessible B-Requirement
+unisex B-Requirement
+toilets B-Application
+one B-Requirement
+is I-Requirement
+located I-Requirement
+as I-Requirement
+close I-Requirement
+as I-Requirement
+possible I-Requirement
+to I-Requirement
+the I-Requirement
+
+entrance B-Selection
+and/or B-Requirement
+waiting B-Selection
+area I-Selection
+
+of B-Requirement
+the I-Requirement
+building; I-Requirement
+
+they B-Requirement
+are I-Requirement
+not I-Requirement
+located I-Requirement
+in I-Requirement
+a I-Requirement
+way I-Requirement
+that I-Requirement
+compromises I-Requirement
+the I-Requirement
+privacy I-Requirement
+of I-Requirement
+users I-Requirement
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+located I-Requirement
+in I-Requirement
+a I-Requirement
+similar I-Requirement
+position I-Requirement
+on I-Requirement
+each I-Requirement
+floor I-Requirement
+
+of B-Application
+a I-Application
+
+multi-storey B-Requirement
+building B-Application
+, B-Application
+and B-Requirement
+allow B-Requirement
+for I-Requirement
+right- I-Requirement
+and I-Requirement
+left-hand I-Requirement
+transfer I-Requirement
+on I-Requirement
+alternate I-Requirement
+floors I-Requirement
+
+; B-Requirement
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+unisex I-Application
+toilet I-Application
+is I-Application
+available I-Application
+
+in B-Requirement
+other B-Application
+than I-Application
+multi-storey I-Application
+buildings I-Application
+
+, B-Requirement
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+; B-Requirement
+when B-Application
+it B-Application
+is I-Application
+the I-Application
+only I-Application
+
+toilet B-Requirement
+facility I-Requirement
+in I-Requirement
+the I-Requirement
+building I-Requirement
+
+, B-Application
+the B-Requirement
+width I-Requirement
+is I-Requirement
+increased I-Requirement
+from I-Requirement
+1.5m I-Requirement
+to I-Requirement
+
+2m B-Requirement
+and B-Requirement
+it B-Requirement
+includes I-Requirement
+a I-Requirement
+standing I-Requirement
+height I-Requirement
+washbasin I-Requirement
+
+, B-Requirement
+in I-Requirement
+addition I-Requirement
+to I-Requirement
+the I-Requirement
+
+finger B-Requirement
+rinse I-Requirement
+basin I-Requirement
+
+associated B-Requirement
+with I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+
+located B-Requirement
+on I-Requirement
+accessible I-Requirement
+routes I-Requirement
+
+that B-Application
+are B-Requirement
+direct B-Requirement
+and B-Requirement
+obstruction B-Requirement
+free I-Requirement
+
+; B-Requirement
+doors B-Application
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+
+fixed B-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+any B-Requirement
+wheelchair I-Requirement
+user I-Requirement
+does I-Requirement
+not I-Requirement
+have I-Requirement
+to I-Requirement
+travel: I-Requirement
+
+more B-Requirement
+than I-Requirement
+
+40m B-Requirement
+on B-Requirement
+the I-Requirement
+same I-Requirement
+floor I-Requirement
+, I-Requirement
+
+unless B-Exception
+a I-Exception
+greater I-Exception
+distance I-Exception
+can I-Exception
+be I-Exception
+agreed I-Exception
+with I-Exception
+the I-Exception
+building I-Exception
+control I-Exception
+body I-Exception
+
+on B-Requirement
+the I-Requirement
+grounds I-Requirement
+that I-Requirement
+the I-Requirement
+circulation I-Requirement
+route I-Requirement
+is I-Requirement
+unobstructed, I-Requirement
+e.g. I-Requirement
+by I-Requirement
+the I-Requirement
+installation I-Requirement
+of I-Requirement
+doors I-Requirement
+with I-Requirement
+hold-open I-Requirement
+devices; I-Requirement
+
+more B-Requirement
+than I-Requirement
+a I-Requirement
+
+40m B-Requirement
+combined B-Requirement
+horizontal I-Requirement
+distance I-Requirement
+where I-Requirement
+the I-Requirement
+
+unisex B-Application
+toilet I-Application
+accommodation I-Application
+is I-Application
+on I-Application
+another I-Application
+floor I-Application
+of I-Application
+the I-Application
+building I-Application
+
+, B-Application
+but B-Requirement
+is I-Requirement
+
+accessible B-Requirement
+by I-Requirement
+passenger I-Requirement
+lift I-Requirement
+
+(if B-Selection
+a I-Selection
+
+lifting B-Requirement
+platform I-Requirement
+is I-Requirement
+installed I-Requirement
+
+, B-Selection
+vertical B-Requirement
+travel I-Requirement
+to I-Requirement
+a I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+is I-Requirement
+limited I-Requirement
+to I-Requirement
+one I-Requirement
+storey I-Requirement
+
+); B-Selection
+more B-Requirement
+than I-Requirement
+
+40m B-Requirement
+on B-Requirement
+the I-Requirement
+same I-Requirement
+floor I-Requirement
+, I-Requirement
+
+unless B-Exception
+a I-Exception
+greater I-Exception
+distance I-Exception
+can I-Exception
+be I-Exception
+agreed I-Exception
+with I-Exception
+the I-Exception
+building I-Exception
+control I-Exception
+body I-Exception
+
+on B-Requirement
+the I-Requirement
+grounds I-Requirement
+that I-Requirement
+the I-Requirement
+circulation I-Requirement
+route I-Requirement
+is I-Requirement
+unobstructed, I-Requirement
+e.g. I-Requirement
+by I-Requirement
+the I-Requirement
+installation I-Requirement
+of I-Requirement
+doors I-Requirement
+with I-Requirement
+hold-open I-Requirement
+devices; I-Requirement
+
+more B-Requirement
+than I-Requirement
+a I-Requirement
+
+40m B-Requirement
+combined B-Requirement
+horizontal I-Requirement
+distance I-Requirement
+where I-Requirement
+the I-Requirement
+
+unisex B-Application
+toilet I-Application
+accommodation I-Application
+is I-Application
+on I-Application
+another I-Application
+floor I-Application
+of I-Application
+the I-Application
+building I-Application
+
+, B-Application
+but B-Requirement
+is I-Requirement
+
+accessible B-Requirement
+by I-Requirement
+passenger I-Requirement
+lift I-Requirement
+
+(if B-Selection
+a I-Selection
+
+lifting B-Requirement
+platform I-Requirement
+is I-Requirement
+installed I-Requirement
+
+, B-Selection
+vertical B-Requirement
+travel I-Requirement
+to I-Requirement
+a I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+is I-Requirement
+limited I-Requirement
+to I-Requirement
+one I-Requirement
+storey I-Requirement
+
+); B-Selection
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+dimensions I-Requirement
+of, I-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+fittings I-Requirement
+within, I-Requirement
+a I-Requirement
+
+wheelchair-accessible B-Requirement
+unisex I-Requirement
+toilet I-Requirement
+comply I-Requirement
+with I-Requirement
+Diagram I-Requirement
+18 I-Requirement
+
+; B-Requirement
+where B-Application
+the I-Application
+
+horizontal B-Application
+support I-Application
+rail I-Application
+
+on B-Application
+the I-Application
+
+wall B-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+is B-Application
+set B-Requirement
+with I-Requirement
+the I-Requirement
+minimum I-Requirement
+spacing I-Requirement
+from I-Requirement
+the I-Requirement
+wall I-Requirement
+
+, B-Requirement
+an I-Requirement
+additional I-Requirement
+
+drop-down B-Requirement
+rail I-Requirement
+is I-Requirement
+provided I-Requirement
+
+on B-Requirement
+the I-Requirement
+wall I-Requirement
+side I-Requirement
+
+at B-Requirement
+a I-Requirement
+
+distance B-Requirement
+of I-Requirement
+320mm I-Requirement
+from I-Requirement
+the I-Requirement
+centre I-Requirement
+line I-Requirement
+of I-Requirement
+the I-Requirement
+WC; I-Requirement
+
+where B-Application
+the I-Application
+
+horizontal B-Application
+support I-Application
+rail I-Application
+
+on B-Application
+the I-Application
+
+wall B-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+is B-Application
+set B-Requirement
+so I-Requirement
+that I-Requirement
+its I-Requirement
+centre I-Requirement
+line I-Requirement
+is I-Requirement
+400mm I-Requirement
+from I-Requirement
+the I-Requirement
+centre I-Requirement
+line I-Requirement
+of I-Requirement
+the I-Requirement
+WC I-Requirement
+
+, B-Application
+there B-Requirement
+is I-Requirement
+
+no B-Requirement
+additional I-Requirement
+drop-down I-Requirement
+rail I-Requirement
+
+; B-Requirement
+the B-Requirement
+heights I-Requirement
+and I-Requirement
+arrangement I-Requirement
+of I-Requirement
+fittings I-Requirement
+in I-Requirement
+a I-Requirement
+wheelchair-accessible I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+19 I-Requirement
+
+and, B-Requirement
+as I-Requirement
+appropriate, I-Requirement
+
+Diagram B-Requirement
+20 I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+alarm I-Requirement
+system I-Requirement
+is I-Requirement
+provided I-Requirement
+
+, B-Requirement
+complying I-Requirement
+with I-Requirement
+
+5.4 B-Requirement
+; B-Requirement
+the B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+call I-Requirement
+signal I-Requirement
+
+outside B-Requirement
+the I-Requirement
+toilet I-Requirement
+compartment I-Requirement
+
+is B-Application
+located B-Requirement
+so I-Requirement
+that I-Requirement
+it I-Requirement
+can I-Requirement
+be I-Requirement
+easily I-Requirement
+seen I-Requirement
+
+and B-Requirement
+heard B-Requirement
+by I-Requirement
+those I-Requirement
+able I-Requirement
+to I-Requirement
+give I-Requirement
+assistance I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+pull I-Requirement
+cord I-Requirement
+
+is B-Requirement
+easily B-Requirement
+identifiable I-Requirement
+
+(see B-Requirement
+4.30(e)) B-Requirement
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+WC I-Requirement
+
+and B-Requirement
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+close I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+any B-Requirement
+heat B-Application
+emitters I-Application
+
+are B-Requirement
+located B-Requirement
+so I-Requirement
+that I-Requirement
+they I-Requirement
+do I-Requirement
+not I-Requirement
+restrict I-Requirement
+the I-Requirement
+minimum I-Requirement
+clear I-Requirement
+wheelchair I-Requirement
+manoeuvring I-Requirement
+space I-Requirement
+
+, B-Requirement
+nor I-Requirement
+the I-Requirement
+
+space B-Requirement
+beside I-Requirement
+the I-Requirement
+WC I-Requirement
+used I-Requirement
+for I-Requirement
+transfer I-Requirement
+from I-Requirement
+the I-Requirement
+wheelchair I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+; B-Requirement
+WC B-Requirement
+pans I-Requirement
+conform I-Requirement
+to I-Requirement
+BS I-Requirement
+EN I-Requirement
+997 I-Requirement
+
+:2012 B-Requirement
+in I-Requirement
+terms I-Requirement
+of I-Requirement
+key I-Requirement
+dimensions I-Requirement
+
+in B-Requirement
+order I-Requirement
+to I-Requirement
+
+accommodate B-Requirement
+the I-Requirement
+use I-Requirement
+of I-Requirement
+a I-Requirement
+variable I-Requirement
+height I-Requirement
+toilet I-Requirement
+seat I-Requirement
+riser I-Requirement
+
+(see B-Requirement
+5.9); I-Requirement
+
+cisterns B-Application
+for B-Requirement
+WCs B-Application
+that B-Requirement
+will I-Requirement
+be I-Requirement
+
+used B-Application
+by I-Application
+wheelchair I-Application
+users I-Application
+
+have B-Requirement
+their I-Requirement
+
+flushing B-Exception
+mechanism I-Exception
+positioned I-Exception
+on I-Exception
+the I-Exception
+open I-Exception
+
+or B-Requirement
+transfer B-Exception
+side I-Exception
+of I-Exception
+the I-Exception
+space I-Exception
+
+, B-Requirement
+irrespective I-Requirement
+of I-Requirement
+handing. I-Requirement
+
+WC B-Requirement
+compartments B-Application
+within B-Application
+separate-sex B-Requirement
+toilet B-Selection
+washrooms B-Selection
+will B-Requirement
+satisfy I-Requirement
+Requirement I-Requirement
+M1 I-Requirement
+or I-Requirement
+M3 I-Requirement
+if: I-Requirement
+
+the B-Requirement
+swing I-Requirement
+of I-Requirement
+any I-Requirement
+
+inward B-Requirement
+opening I-Requirement
+
+doors B-Application
+to B-Requirement
+standard B-Application
+WC I-Application
+compartments I-Application
+
+is B-Requirement
+such I-Requirement
+that I-Requirement
+a I-Requirement
+
+450mm B-Requirement
+diameter I-Requirement
+manoeuvring I-Requirement
+space I-Requirement
+is I-Requirement
+maintained I-Requirement
+between I-Requirement
+the I-Requirement
+swing I-Requirement
+of I-Requirement
+the I-Requirement
+door, I-Requirement
+the I-Requirement
+WC I-Requirement
+pan I-Requirement
+
+and B-Requirement
+the B-Requirement
+side I-Requirement
+wall I-Requirement
+of I-Requirement
+the I-Requirement
+compartment I-Requirement
+
+; B-Requirement
+the B-Requirement
+minimum I-Requirement
+dimensions I-Requirement
+of I-Requirement
+compartments I-Requirement
+for I-Requirement
+ambulant I-Requirement
+disabled I-Requirement
+people, I-Requirement
+including I-Requirement
+the I-Requirement
+activity I-Requirement
+space, I-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+grab I-Requirement
+bars I-Requirement
+and I-Requirement
+other I-Requirement
+fittings I-Requirement
+within I-Requirement
+the I-Requirement
+compartment, I-Requirement
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+21 I-Requirement
+
+; B-Requirement
+doors B-Application
+to B-Requirement
+compartments I-Requirement
+for I-Requirement
+
+ambulant B-Application
+disabled I-Application
+people I-Application
+
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+fixed I-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+an B-Requirement
+enlarged I-Requirement
+compartment I-Requirement
+for I-Requirement
+
+those B-Application
+who I-Application
+need I-Application
+extra I-Application
+space I-Application
+
+(based B-Requirement
+on I-Requirement
+the I-Requirement
+compartment I-Requirement
+for I-Requirement
+ambulant I-Requirement
+disabled I-Requirement
+people) I-Requirement
+
+is B-Requirement
+1200mm I-Requirement
+wide I-Requirement
+
+and B-Requirement
+includes B-Requirement
+a I-Requirement
+horizontal I-Requirement
+grab I-Requirement
+bar I-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+, B-Requirement
+a B-Requirement
+vertical I-Requirement
+grab I-Requirement
+bar I-Requirement
+on I-Requirement
+the I-Requirement
+rear I-Requirement
+wall I-Requirement
+
+and B-Requirement
+space B-Requirement
+for I-Requirement
+a I-Requirement
+shelf I-Requirement
+
+and B-Requirement
+fold-down B-Requirement
+changing I-Requirement
+table I-Requirement
+
+; B-Requirement
+any B-Requirement
+compartment B-Application
+for I-Application
+use I-Application
+by I-Application
+ambulant I-Application
+disabled I-Application
+people I-Application
+
+has B-Requirement
+a I-Requirement
+
+WC B-Requirement
+pan I-Requirement
+that I-Requirement
+conforms I-Requirement
+to I-Requirement
+BS I-Requirement
+EN I-Requirement
+997:2012 I-Requirement
+
+in B-Requirement
+terms I-Requirement
+of I-Requirement
+key I-Requirement
+dimensions, I-Requirement
+in I-Requirement
+order I-Requirement
+to I-Requirement
+
+accommodate B-Requirement
+the I-Requirement
+use I-Requirement
+of I-Requirement
+a I-Requirement
+variable I-Requirement
+height I-Requirement
+toilet I-Requirement
+seat I-Requirement
+riser I-Requirement
+
+(see B-Requirement
+5.9 I-Requirement
+and I-Requirement
+5.11); I-Requirement
+
+a B-Requirement
+wheelchair-accessible B-Requirement
+compartment B-Application
+(where B-Requirement
+provided) I-Requirement
+has I-Requirement
+the I-Requirement
+
+same B-Requirement
+layout I-Requirement
+
+and B-Requirement
+fittings B-Requirement
+as I-Requirement
+the I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+
+; B-Requirement
+any B-Requirement
+wheelchair-accessible B-Requirement
+washroom B-Application
+has B-Requirement
+at B-Requirement
+least I-Requirement
+one I-Requirement
+washbasin I-Requirement
+
+with B-Requirement
+its I-Requirement
+
+rim B-Requirement
+set I-Requirement
+at I-Requirement
+720 I-Requirement
+
+to B-Requirement
+740mm B-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+and, B-Requirement
+for B-Requirement
+men B-Application
+, B-Requirement
+at B-Requirement
+least I-Requirement
+one I-Requirement
+urinal I-Requirement
+
+with B-Requirement
+its I-Requirement
+
+rim B-Requirement
+set I-Requirement
+at I-Requirement
+380mm I-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+, B-Requirement
+with I-Requirement
+
+two B-Requirement
+600mm B-Requirement
+long I-Requirement
+vertical I-Requirement
+grab I-Requirement
+bars I-Requirement
+
+with B-Requirement
+their I-Requirement
+
+centre B-Requirement
+lines I-Requirement
+at I-Requirement
+1100mm I-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+, B-Requirement
+positioned B-Requirement
+either I-Requirement
+side I-Requirement
+of I-Requirement
+the I-Requirement
+urinal I-Requirement
+
+. B-Requirement
+WC B-Requirement
+cubicle I-Requirement
+for I-Requirement
+ambulant I-Requirement
+disabled I-Requirement
+people I-Requirement
+
+WC B-Requirement
+compartments B-Application
+within B-Application
+separate-sex B-Requirement
+toilet B-Selection
+washrooms B-Selection
+the B-Requirement
+swing I-Requirement
+of I-Requirement
+any I-Requirement
+
+inward B-Requirement
+opening I-Requirement
+
+doors B-Application
+to B-Requirement
+standard B-Application
+WC I-Application
+compartments I-Application
+
+is B-Requirement
+such I-Requirement
+that I-Requirement
+a I-Requirement
+
+450mm B-Requirement
+diameter I-Requirement
+manoeuvring I-Requirement
+space I-Requirement
+is I-Requirement
+maintained I-Requirement
+between I-Requirement
+the I-Requirement
+swing I-Requirement
+of I-Requirement
+the I-Requirement
+door, I-Requirement
+the I-Requirement
+WC I-Requirement
+pan I-Requirement
+
+and B-Requirement
+the B-Requirement
+side I-Requirement
+wall I-Requirement
+of I-Requirement
+the I-Requirement
+compartment I-Requirement
+
+; B-Requirement
+the B-Requirement
+minimum I-Requirement
+dimensions I-Requirement
+of I-Requirement
+compartments I-Requirement
+for I-Requirement
+ambulant I-Requirement
+disabled I-Requirement
+people, I-Requirement
+including I-Requirement
+the I-Requirement
+activity I-Requirement
+space, I-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+grab I-Requirement
+bars I-Requirement
+and I-Requirement
+other I-Requirement
+fittings I-Requirement
+within I-Requirement
+the I-Requirement
+compartment, I-Requirement
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+21 I-Requirement
+
+; B-Requirement
+doors B-Application
+to B-Requirement
+compartments I-Requirement
+for I-Requirement
+
+ambulant B-Application
+disabled I-Application
+people I-Application
+
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+fixed I-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+an B-Requirement
+enlarged I-Requirement
+compartment I-Requirement
+for I-Requirement
+
+those B-Application
+who I-Application
+need I-Application
+extra I-Application
+space I-Application
+
+(based B-Requirement
+on I-Requirement
+the I-Requirement
+compartment I-Requirement
+for I-Requirement
+ambulant I-Requirement
+disabled I-Requirement
+people) I-Requirement
+
+is B-Requirement
+1200mm I-Requirement
+wide I-Requirement
+
+and B-Requirement
+includes B-Requirement
+a I-Requirement
+horizontal I-Requirement
+grab I-Requirement
+bar I-Requirement
+adjacent I-Requirement
+to I-Requirement
+the I-Requirement
+WC I-Requirement
+
+, B-Requirement
+a B-Requirement
+vertical I-Requirement
+grab I-Requirement
+bar I-Requirement
+on I-Requirement
+the I-Requirement
+rear I-Requirement
+wall I-Requirement
+
+and B-Requirement
+space B-Requirement
+for I-Requirement
+a I-Requirement
+shelf I-Requirement
+
+and B-Requirement
+fold-down B-Requirement
+changing I-Requirement
+table I-Requirement
+
+; B-Requirement
+any B-Requirement
+compartment B-Application
+for I-Application
+use I-Application
+by I-Application
+ambulant I-Application
+disabled I-Application
+people I-Application
+
+has B-Requirement
+a I-Requirement
+
+WC B-Requirement
+pan I-Requirement
+that I-Requirement
+conforms I-Requirement
+to I-Requirement
+BS I-Requirement
+EN I-Requirement
+997:2012 I-Requirement
+
+in B-Requirement
+terms I-Requirement
+of I-Requirement
+key I-Requirement
+dimensions, I-Requirement
+in I-Requirement
+order I-Requirement
+to I-Requirement
+
+accommodate B-Requirement
+the I-Requirement
+use I-Requirement
+of I-Requirement
+a I-Requirement
+variable I-Requirement
+height I-Requirement
+toilet I-Requirement
+seat I-Requirement
+riser I-Requirement
+
+(see B-Requirement
+5.9 I-Requirement
+and I-Requirement
+5.11); I-Requirement
+
+a B-Requirement
+wheelchair-accessible B-Requirement
+compartment B-Application
+(where B-Requirement
+provided) I-Requirement
+has I-Requirement
+the I-Requirement
+
+same B-Requirement
+layout I-Requirement
+
+and B-Requirement
+fittings B-Requirement
+as I-Requirement
+the I-Requirement
+unisex I-Requirement
+toilet I-Requirement
+
+; B-Requirement
+any B-Requirement
+wheelchair-accessible B-Requirement
+washroom B-Application
+has B-Requirement
+at B-Requirement
+least I-Requirement
+one I-Requirement
+washbasin I-Requirement
+
+with B-Requirement
+its I-Requirement
+
+rim B-Requirement
+set I-Requirement
+at I-Requirement
+720 I-Requirement
+
+to B-Requirement
+740mm B-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+and, B-Requirement
+for B-Requirement
+men B-Application
+, B-Requirement
+at B-Requirement
+least I-Requirement
+one I-Requirement
+urinal I-Requirement
+
+with B-Requirement
+its I-Requirement
+
+rim B-Requirement
+set I-Requirement
+at I-Requirement
+380mm I-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+, B-Requirement
+with I-Requirement
+
+two B-Requirement
+600mm B-Requirement
+long I-Requirement
+vertical I-Requirement
+grab I-Requirement
+bars I-Requirement
+
+with B-Requirement
+their I-Requirement
+
+centre B-Requirement
+lines I-Requirement
+at I-Requirement
+1100mm I-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+, B-Requirement
+positioned B-Requirement
+either I-Requirement
+side I-Requirement
+of I-Requirement
+the I-Requirement
+urinal I-Requirement
+
+. B-Requirement
+Wheelchair-accessible B-Requirement
+changing B-Selection
+and B-Application
+shower B-Selection
+facilities B-Application
+will B-Requirement
+satisfy I-Requirement
+Requirement I-Requirement
+M1 I-Requirement
+or I-Requirement
+M3 I-Requirement
+if: I-Requirement
+
+a B-Requirement
+choice B-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+when B-Application
+more B-Selection
+than I-Selection
+one I-Selection
+individual I-Selection
+changing I-Selection
+compartment I-Selection
+
+or B-Requirement
+shower B-Selection
+compartment I-Selection
+is I-Selection
+available I-Selection
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+provided I-Requirement
+with I-Requirement
+
+wall-mounted B-Requirement
+drop-down B-Requirement
+support B-Requirement
+rails I-Requirement
+
+and B-Requirement
+wall-mounted B-Requirement
+slip-resistant B-Requirement
+tip-up B-Requirement
+seats I-Requirement
+
+(not B-Requirement
+spring B-Requirement
+loaded I-Requirement
+
+); B-Requirement
+in B-Requirement
+communal B-Application
+shower B-Requirement
+facilities I-Requirement
+and I-Requirement
+changing I-Requirement
+facilities, I-Requirement
+they I-Requirement
+are I-Requirement
+
+provided B-Requirement
+with I-Requirement
+subdivisions I-Requirement
+
+that B-Requirement
+have B-Requirement
+the I-Requirement
+same I-Requirement
+configuration I-Requirement
+of I-Requirement
+space I-Requirement
+
+and B-Requirement
+equipment B-Requirement
+as I-Requirement
+for I-Requirement
+self-contained I-Requirement
+facilities I-Requirement
+
+but B-Requirement
+without B-Requirement
+doors I-Requirement
+
+; B-Requirement
+in B-Application
+sports B-Application
+facilities I-Application
+
+, B-Requirement
+individual B-Requirement
+self-contained I-Requirement
+shower I-Requirement
+facilities I-Requirement
+
+and B-Requirement
+changing B-Requirement
+facilities I-Requirement
+
+are B-Requirement
+available I-Requirement
+in I-Requirement
+addition I-Requirement
+to I-Requirement
+
+communal B-Requirement
+separate-sex I-Requirement
+facilities I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+pull B-Requirement
+cord I-Requirement
+
+, B-Requirement
+complying B-Requirement
+with I-Requirement
+4.30(e) I-Requirement
+
+, B-Requirement
+is I-Requirement
+
+easily B-Requirement
+identifiable I-Requirement
+
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+wall-mounted I-Requirement
+tip-up I-Requirement
+seat I-Requirement
+
+, B-Requirement
+or I-Requirement
+
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+alarm B-Requirement
+system I-Requirement
+
+complying B-Requirement
+with I-Requirement
+5.4(h) I-Requirement
+
+is B-Requirement
+provided; I-Requirement
+
+facilities B-Requirement
+for I-Requirement
+limb I-Requirement
+storage I-Requirement
+
+are B-Requirement
+included B-Requirement
+for I-Requirement
+the I-Requirement
+benefit I-Requirement
+of I-Requirement
+amputees I-Requirement
+
+; B-Requirement
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+
+arrangement B-Requirement
+of I-Requirement
+equipment I-Requirement
+
+and B-Requirement
+controls B-Requirement
+within, B-Requirement
+individual B-Application
+self-contained B-Application
+changing B-Application
+facilities I-Application
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+22; I-Requirement
+
+when B-Application
+associated I-Application
+with I-Application
+
+shower B-Requirement
+facilities I-Requirement
+
+, B-Application
+the I-Application
+floor I-Application
+of I-Application
+a I-Application
+
+changing B-Application
+area I-Application
+
+is B-Application
+level B-Requirement
+and B-Requirement
+slip B-Requirement
+resistant I-Requirement
+when I-Requirement
+dry I-Requirement
+
+or B-Requirement
+when B-Requirement
+wet I-Requirement
+
+; B-Requirement
+there B-Requirement
+is I-Requirement
+a I-Requirement
+
+manoeuvring B-Requirement
+space I-Requirement
+
+1500mm B-Requirement
+deep I-Requirement
+
+in B-Requirement
+front B-Requirement
+of I-Requirement
+lockers I-Requirement
+
+in B-Requirement
+self-contained B-Selection
+or B-Requirement
+communal B-Selection
+changing I-Selection
+areas I-Selection
+
+; B-Requirement
+An B-Requirement
+example I-Requirement
+of I-Requirement
+a I-Requirement
+self-contained I-Requirement
+changing I-Requirement
+room I-Requirement
+for I-Requirement
+individual I-Requirement
+use I-Requirement
+
+individual B-Application
+self-contained B-Application
+shower B-Application
+facilities I-Application
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+23 I-Requirement
+
+; B-Requirement
+where B-Application
+showers B-Requirement
+are B-Application
+provided I-Application
+in I-Application
+
+commercial B-Application
+developments I-Application
+
+for B-Application
+the B-Requirement
+benefit I-Requirement
+of I-Requirement
+
+staff B-Application
+, B-Requirement
+at I-Requirement
+least I-Requirement
+one I-Requirement
+wheelchair-accessible I-Requirement
+shower I-Requirement
+compartment I-Requirement
+
+complying B-Requirement
+with I-Requirement
+Diagram I-Requirement
+23 I-Requirement
+
+should B-Requirement
+be I-Requirement
+provided; I-Requirement
+
+a B-Requirement
+shower B-Requirement
+curtain I-Requirement
+
+, B-Requirement
+which B-Application
+encloses B-Requirement
+the I-Requirement
+seat I-Requirement
+
+and B-Requirement
+the I-Requirement
+
+rails B-Requirement
+when I-Requirement
+they I-Requirement
+are I-Requirement
+in I-Requirement
+a I-Requirement
+horizontal I-Requirement
+position I-Requirement
+
+, B-Requirement
+can B-Requirement
+be I-Requirement
+operated I-Requirement
+from I-Requirement
+the I-Requirement
+shower I-Requirement
+seat I-Requirement
+
+; B-Requirement
+a B-Requirement
+shelf B-Requirement
+that B-Requirement
+can B-Requirement
+be I-Requirement
+reached I-Requirement
+from I-Requirement
+the I-Requirement
+shower I-Requirement
+seat I-Requirement
+
+or B-Requirement
+from B-Requirement
+the I-Requirement
+wheelchair, I-Requirement
+before I-Requirement
+or I-Requirement
+after I-Requirement
+transfer I-Requirement
+
+, B-Requirement
+is B-Requirement
+provided I-Requirement
+for I-Requirement
+toiletries I-Requirement
+
+; B-Requirement
+the B-Requirement
+floor B-Application
+of B-Requirement
+the I-Requirement
+shower I-Requirement
+and I-Requirement
+
+shower B-Selection
+area I-Selection
+
+is B-Requirement
+slip B-Requirement
+resistant I-Requirement
+
+and B-Requirement
+self-draining B-Requirement
+; B-Requirement
+a B-Requirement
+shower B-Application
+terminal B-Application
+fitting I-Application
+
+complies B-Requirement
+with I-Requirement
+Guidance I-Requirement
+Note I-Requirement
+G18.5 I-Requirement
+of I-Requirement
+the I-Requirement
+Guidance I-Requirement
+Document I-Requirement
+relating I-Requirement
+to I-Requirement
+Schedule I-Requirement
+2: I-Requirement
+Requirement I-Requirement
+for I-Requirement
+Water I-Requirement
+Fittings, I-Requirement
+of I-Requirement
+the I-Requirement
+Water I-Requirement
+Supply I-Requirement
+(Water I-Requirement
+Fittings) I-Requirement
+Regulations I-Requirement
+1999, I-Requirement
+SI I-Requirement
+1999/1148 I-Requirement
+
+, B-Requirement
+and I-Requirement
+the I-Requirement
+
+markings B-Requirement
+on I-Requirement
+the I-Requirement
+shower I-Requirement
+control I-Requirement
+are I-Requirement
+logical I-Requirement
+
+and B-Requirement
+clear B-Requirement
+; B-Requirement
+where B-Requirement
+wheelchair-accessible B-Application
+shower B-Application
+facilities I-Application
+
+are B-Requirement
+available I-Requirement
+
+in B-Application
+communal I-Application
+areas I-Application
+
+, B-Requirement
+shower B-Requirement
+controls I-Requirement
+are I-Requirement
+positioned I-Requirement
+between I-Requirement
+750 I-Requirement
+
+and B-Requirement
+1000mm B-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+An B-Requirement
+example I-Requirement
+of I-Requirement
+a I-Requirement
+self-contained I-Requirement
+shower I-Requirement
+room I-Requirement
+for I-Requirement
+individual I-Requirement
+use I-Requirement
+
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+
+fittings B-Requirement
+within, B-Requirement
+an I-Requirement
+
+individual B-Application
+self-contained B-Application
+shower B-Application
+area I-Application
+
+incorporating B-Application
+a I-Application
+corner I-Application
+WC I-Application
+
+, B-Requirement
+e.g. I-Requirement
+in I-Requirement
+a I-Requirement
+sports I-Requirement
+building, I-Requirement
+comply I-Requirement
+with I-Requirement
+Diagram I-Requirement
+24; I-Requirement
+
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+layouts I-Requirement
+is I-Requirement
+available I-Requirement
+
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+shower I-Application
+area I-Application
+
+incorporating B-Requirement
+a I-Requirement
+corner I-Requirement
+WC I-Requirement
+is I-Requirement
+provided. I-Requirement
+
+An B-Requirement
+example I-Requirement
+of I-Requirement
+a I-Requirement
+shower I-Requirement
+room I-Requirement
+incorporating I-Requirement
+a I-Requirement
+corner I-Requirement
+WC I-Requirement
+for I-Requirement
+individual I-Requirement
+use I-Requirement
+
+Note: B-Requirement
+Guidance I-Requirement
+prepared I-Requirement
+by I-Requirement
+the I-Requirement
+Health I-Requirement
+and I-Requirement
+Safety I-Requirement
+Executive I-Requirement
+on I-Requirement
+the I-Requirement
+slip I-Requirement
+resistance I-Requirement
+of I-Requirement
+floor I-Requirement
+surfaces I-Requirement
+is I-Requirement
+given I-Requirement
+in I-Requirement
+Annex I-Requirement
+C I-Requirement
+of I-Requirement
+BS I-Requirement
+8300. I-Requirement
+
+Wheelchair-accessible B-Requirement
+changing B-Selection
+and B-Application
+shower B-Selection
+facilities B-Application
+a B-Requirement
+choice B-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+when B-Application
+more B-Selection
+than I-Selection
+one I-Selection
+individual I-Selection
+changing I-Selection
+compartment I-Selection
+
+or B-Requirement
+shower B-Selection
+compartment I-Selection
+is I-Selection
+available I-Selection
+
+; B-Requirement
+they B-Requirement
+are I-Requirement
+provided I-Requirement
+with I-Requirement
+
+wall-mounted B-Requirement
+drop-down B-Requirement
+support B-Requirement
+rails I-Requirement
+
+and B-Requirement
+wall-mounted B-Requirement
+slip-resistant B-Requirement
+tip-up B-Requirement
+seats I-Requirement
+
+(not B-Requirement
+spring B-Requirement
+loaded I-Requirement
+
+); B-Requirement
+in B-Requirement
+communal B-Application
+shower B-Requirement
+facilities I-Requirement
+and I-Requirement
+changing I-Requirement
+facilities, I-Requirement
+they I-Requirement
+are I-Requirement
+
+provided B-Requirement
+with I-Requirement
+subdivisions I-Requirement
+
+that B-Requirement
+have B-Requirement
+the I-Requirement
+same I-Requirement
+configuration I-Requirement
+of I-Requirement
+space I-Requirement
+
+and B-Requirement
+equipment B-Requirement
+as I-Requirement
+for I-Requirement
+self-contained I-Requirement
+facilities I-Requirement
+
+but B-Requirement
+without B-Requirement
+doors I-Requirement
+
+; B-Requirement
+in B-Application
+sports B-Application
+facilities I-Application
+
+, B-Requirement
+individual B-Requirement
+self-contained I-Requirement
+shower I-Requirement
+facilities I-Requirement
+
+and B-Requirement
+changing B-Requirement
+facilities I-Requirement
+
+are B-Requirement
+available I-Requirement
+in I-Requirement
+addition I-Requirement
+to I-Requirement
+
+communal B-Requirement
+separate-sex I-Requirement
+facilities I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+pull B-Requirement
+cord I-Requirement
+
+, B-Requirement
+complying B-Requirement
+with I-Requirement
+4.30(e) I-Requirement
+
+, B-Requirement
+is I-Requirement
+
+easily B-Requirement
+identifiable I-Requirement
+
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+wall-mounted I-Requirement
+tip-up I-Requirement
+seat I-Requirement
+
+, B-Requirement
+or I-Requirement
+
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+alarm B-Requirement
+system I-Requirement
+
+complying B-Requirement
+with I-Requirement
+5.4(h) I-Requirement
+
+is B-Requirement
+provided; I-Requirement
+
+facilities B-Requirement
+for I-Requirement
+limb I-Requirement
+storage I-Requirement
+
+are B-Requirement
+included B-Requirement
+for I-Requirement
+the I-Requirement
+benefit I-Requirement
+of I-Requirement
+amputees I-Requirement
+
+; B-Requirement
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+
+arrangement B-Requirement
+of I-Requirement
+equipment I-Requirement
+
+and B-Requirement
+controls B-Requirement
+within, B-Requirement
+individual B-Application
+self-contained B-Application
+changing B-Application
+facilities I-Application
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+22; I-Requirement
+
+when B-Application
+associated I-Application
+with I-Application
+
+shower B-Requirement
+facilities I-Requirement
+
+, B-Application
+the I-Application
+floor I-Application
+of I-Application
+a I-Application
+
+changing B-Application
+area I-Application
+
+is B-Application
+level B-Requirement
+and B-Requirement
+slip B-Requirement
+resistant I-Requirement
+when I-Requirement
+dry I-Requirement
+
+or B-Requirement
+when B-Requirement
+wet I-Requirement
+
+; B-Requirement
+there B-Requirement
+is I-Requirement
+a I-Requirement
+
+manoeuvring B-Requirement
+space I-Requirement
+
+1500mm B-Requirement
+deep I-Requirement
+
+in B-Requirement
+front B-Requirement
+of I-Requirement
+lockers I-Requirement
+
+in B-Requirement
+self-contained B-Selection
+or B-Requirement
+communal B-Selection
+changing I-Selection
+areas I-Selection
+
+; B-Requirement
+individual B-Application
+self-contained B-Application
+shower B-Application
+facilities I-Application
+
+comply B-Requirement
+with I-Requirement
+Diagram I-Requirement
+23 I-Requirement
+
+; B-Requirement
+where B-Application
+showers B-Requirement
+are B-Application
+provided I-Application
+in I-Application
+
+commercial B-Application
+developments I-Application
+
+for B-Application
+the B-Requirement
+benefit I-Requirement
+of I-Requirement
+
+staff B-Application
+, B-Requirement
+at I-Requirement
+least I-Requirement
+one I-Requirement
+wheelchair-accessible I-Requirement
+shower I-Requirement
+compartment I-Requirement
+
+complying B-Requirement
+with I-Requirement
+Diagram I-Requirement
+23 I-Requirement
+
+should B-Requirement
+be I-Requirement
+provided; I-Requirement
+
+a B-Requirement
+shower B-Requirement
+curtain I-Requirement
+
+, B-Requirement
+which B-Application
+encloses B-Requirement
+the I-Requirement
+seat I-Requirement
+
+and B-Requirement
+the I-Requirement
+
+rails B-Requirement
+when I-Requirement
+they I-Requirement
+are I-Requirement
+in I-Requirement
+a I-Requirement
+horizontal I-Requirement
+position I-Requirement
+
+, B-Requirement
+can B-Requirement
+be I-Requirement
+operated I-Requirement
+from I-Requirement
+the I-Requirement
+shower I-Requirement
+seat I-Requirement
+
+; B-Requirement
+a B-Requirement
+shelf B-Requirement
+that B-Requirement
+can B-Requirement
+be I-Requirement
+reached I-Requirement
+from I-Requirement
+the I-Requirement
+shower I-Requirement
+seat I-Requirement
+
+or B-Requirement
+from B-Requirement
+the I-Requirement
+wheelchair, I-Requirement
+before I-Requirement
+or I-Requirement
+after I-Requirement
+transfer I-Requirement
+
+, B-Requirement
+is B-Requirement
+provided I-Requirement
+for I-Requirement
+toiletries I-Requirement
+
+; B-Requirement
+the B-Requirement
+floor B-Application
+of B-Requirement
+the I-Requirement
+shower I-Requirement
+and I-Requirement
+
+shower B-Selection
+area I-Selection
+
+is B-Requirement
+slip B-Requirement
+resistant I-Requirement
+
+and B-Requirement
+self-draining B-Requirement
+; B-Requirement
+a B-Requirement
+shower B-Application
+terminal B-Application
+fitting I-Application
+
+complies B-Requirement
+with I-Requirement
+Guidance I-Requirement
+Note I-Requirement
+G18.5 I-Requirement
+of I-Requirement
+the I-Requirement
+Guidance I-Requirement
+Document I-Requirement
+relating I-Requirement
+to I-Requirement
+Schedule I-Requirement
+2: I-Requirement
+Requirement I-Requirement
+for I-Requirement
+Water I-Requirement
+Fittings, I-Requirement
+of I-Requirement
+the I-Requirement
+Water I-Requirement
+Supply I-Requirement
+(Water I-Requirement
+Fittings) I-Requirement
+Regulations I-Requirement
+1999, I-Requirement
+SI I-Requirement
+1999/1148 I-Requirement
+
+, B-Requirement
+and I-Requirement
+the I-Requirement
+
+markings B-Requirement
+on I-Requirement
+the I-Requirement
+shower I-Requirement
+control I-Requirement
+are I-Requirement
+logical I-Requirement
+
+and B-Requirement
+clear B-Requirement
+; B-Requirement
+where B-Requirement
+wheelchair-accessible B-Application
+shower B-Application
+facilities I-Application
+
+are B-Requirement
+available I-Requirement
+
+in B-Application
+communal I-Application
+areas I-Application
+
+, B-Requirement
+shower B-Requirement
+controls I-Requirement
+are I-Requirement
+positioned I-Requirement
+between I-Requirement
+750 I-Requirement
+
+and B-Requirement
+1000mm B-Requirement
+above I-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+arrangement I-Requirement
+of I-Requirement
+
+fittings B-Requirement
+within, B-Requirement
+an I-Requirement
+
+individual B-Application
+self-contained B-Application
+shower B-Application
+area I-Application
+
+incorporating B-Application
+a I-Application
+corner I-Application
+WC I-Application
+
+, B-Requirement
+e.g. I-Requirement
+in I-Requirement
+a I-Requirement
+sports I-Requirement
+building, I-Requirement
+comply I-Requirement
+with I-Requirement
+Diagram I-Requirement
+24; I-Requirement
+
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+layouts I-Requirement
+is I-Requirement
+available I-Requirement
+
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+shower I-Application
+area I-Application
+
+incorporating B-Requirement
+a I-Requirement
+corner I-Requirement
+WC I-Requirement
+is I-Requirement
+provided. I-Requirement
+
+Wheelchair-accessible B-Requirement
+bathrooms B-Application
+will B-Requirement
+satisfy I-Requirement
+Requirement I-Requirement
+M1 I-Requirement
+or I-Requirement
+M3 I-Requirement
+if: I-Requirement
+
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+
+arrangement B-Requirement
+of I-Requirement
+fittings I-Requirement
+
+within, B-Requirement
+a I-Requirement
+bathroom I-Requirement
+for I-Requirement
+
+individual B-Application
+use I-Application
+
+incorporating B-Requirement
+a B-Application
+corner I-Application
+WC I-Application
+
+comply B-Requirement
+with I-Requirement
+
+Diagrams B-Requirement
+25 I-Requirement
+
+and B-Requirement
+26 B-Requirement
+; B-Requirement
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+bathroom I-Application
+for I-Application
+individual I-Application
+use I-Application
+
+incorporating B-Application
+a I-Application
+corner I-Application
+WC I-Application
+is I-Application
+available; I-Application
+
+the B-Requirement
+floor B-Application
+of B-Requirement
+a I-Requirement
+bathroom I-Requirement
+
+is B-Requirement
+slip I-Requirement
+resistant I-Requirement
+when I-Requirement
+dry I-Requirement
+
+or B-Requirement
+when B-Requirement
+wet I-Requirement
+
+; B-Requirement
+the B-Requirement
+bath B-Application
+is B-Requirement
+provided B-Requirement
+with I-Requirement
+a I-Requirement
+transfer I-Requirement
+seat I-Requirement
+
+, B-Requirement
+400mm B-Requirement
+deep I-Requirement
+
+and B-Requirement
+equal B-Requirement
+to I-Requirement
+the I-Requirement
+width I-Requirement
+of I-Requirement
+the I-Requirement
+bath I-Requirement
+
+; B-Requirement
+doors B-Application
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+
+fixed B-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+pull-cord B-Requirement
+complying B-Requirement
+with I-Requirement
+4.30(e) I-Requirement
+
+is B-Requirement
+easily B-Requirement
+identifiable I-Requirement
+
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+bath I-Requirement
+
+or B-Requirement
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+alarm B-Requirement
+system I-Requirement
+
+complying B-Requirement
+with I-Requirement
+5.4(h) I-Requirement
+
+is B-Requirement
+provided. I-Requirement
+
+Note: B-Requirement
+Guidance I-Requirement
+prepared I-Requirement
+by I-Requirement
+the I-Requirement
+Health I-Requirement
+and I-Requirement
+Safety I-Requirement
+Executive I-Requirement
+on I-Requirement
+the I-Requirement
+slip I-Requirement
+resistance I-Requirement
+of I-Requirement
+floor I-Requirement
+surfaces I-Requirement
+is I-Requirement
+given I-Requirement
+in I-Requirement
+Annex I-Requirement
+C I-Requirement
+of I-Requirement
+BS I-Requirement
+8300. I-Requirement
+
+Wheelchair-accessible B-Requirement
+bathrooms B-Application
+the B-Requirement
+minimum I-Requirement
+overall I-Requirement
+
+dimensions B-Requirement
+of, B-Requirement
+and I-Requirement
+the I-Requirement
+
+arrangement B-Requirement
+of I-Requirement
+fittings I-Requirement
+
+within, B-Requirement
+a I-Requirement
+bathroom I-Requirement
+for I-Requirement
+
+individual B-Application
+use I-Application
+
+incorporating B-Requirement
+a B-Application
+corner I-Application
+WC I-Application
+
+comply B-Requirement
+with I-Requirement
+
+Diagrams B-Requirement
+25 I-Requirement
+
+and B-Requirement
+26 B-Requirement
+; B-Requirement
+a B-Requirement
+choice I-Requirement
+of I-Requirement
+layouts I-Requirement
+suitable I-Requirement
+for I-Requirement
+left-hand I-Requirement
+
+and B-Requirement
+right-hand B-Requirement
+transfer I-Requirement
+is I-Requirement
+provided I-Requirement
+
+when B-Application
+more B-Application
+than I-Application
+one I-Application
+bathroom I-Application
+for I-Application
+individual I-Application
+use I-Application
+
+incorporating B-Application
+a I-Application
+corner I-Application
+WC I-Application
+is I-Application
+available; I-Application
+
+the B-Requirement
+floor B-Application
+of B-Requirement
+a I-Requirement
+bathroom I-Requirement
+
+is B-Requirement
+slip I-Requirement
+resistant I-Requirement
+when I-Requirement
+dry I-Requirement
+
+or B-Requirement
+when B-Requirement
+wet I-Requirement
+
+; B-Requirement
+the B-Requirement
+bath B-Application
+is B-Requirement
+provided B-Requirement
+with I-Requirement
+a I-Requirement
+transfer I-Requirement
+seat I-Requirement
+
+, B-Requirement
+400mm B-Requirement
+deep I-Requirement
+
+and B-Requirement
+equal B-Requirement
+to I-Requirement
+the I-Requirement
+width I-Requirement
+of I-Requirement
+the I-Requirement
+bath I-Requirement
+
+; B-Requirement
+doors B-Application
+are B-Requirement
+preferably I-Requirement
+outward I-Requirement
+opening I-Requirement
+and I-Requirement
+are I-Requirement
+
+fitted B-Requirement
+with I-Requirement
+a I-Requirement
+horizontal I-Requirement
+closing I-Requirement
+bar I-Requirement
+
+fixed B-Requirement
+to I-Requirement
+the I-Requirement
+inside I-Requirement
+face I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+pull-cord B-Requirement
+complying B-Requirement
+with I-Requirement
+4.30(e) I-Requirement
+
+is B-Requirement
+easily B-Requirement
+identifiable I-Requirement
+
+and B-Requirement
+reachable B-Requirement
+from I-Requirement
+the I-Requirement
+bath I-Requirement
+
+or B-Requirement
+from B-Requirement
+the I-Requirement
+floor I-Requirement
+
+; B-Requirement
+an B-Requirement
+emergency B-Requirement
+assistance I-Requirement
+
+alarm B-Requirement
+system I-Requirement
+
+complying B-Requirement
+with I-Requirement
+5.4(h) I-Requirement
+
+is B-Requirement
+provided. I-Requirement

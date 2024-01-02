@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Model Prediction Results</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .result-container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+        }
+    </style>
+{#    <script>#}
+{#        document.addEventListener("DOMContentLoaded", function () {#}
+{#            var pred_json = document.getElementById("prediction");#}
+{#            pred_json.innerHTML = "";#}
+{#            var jsond = JSON.parse(pred_json);#}
+{##}
+{#            for (var i=0; i < jsond.length; i++){#}
+{#                var object = jsond[i];#}
+                {#var text = object["text"];#}
+{#                var annotations = object["annotations"];#}
+{#                for (var j = 0; j < annotations.length; j++){#}
+{#                    var text = annotations[i].split("/");#}
+{#                    var theText = text[0];#}
+{#                    var annotation = #}
+{#                }#}
+{#            }#}
+{#        })#}
+{#    </script>#}
+</head>
+<body>
+    <div class="container">
+        <div class="result-container">
+            <h1>Model Prediction Results</h1>
+            <div>
+                <p><strong>Prediction:</strong> <span id="prediction"> {{ prediction|safe }} </span> </p>
+                <p><strong>Dataset:</strong> {{ text }}</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

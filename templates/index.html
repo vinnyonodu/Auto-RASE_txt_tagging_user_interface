@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Upload</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            background: linear-gradient(to bottom, #000000, #808080, #ffffff); /* Set your desired gradient colors */
+            height: 100vh;
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .upload-box {
+            width: 400px;
+            padding: 40px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .upload-icon {
+            font-size: 3rem;
+            margin-bottom: 20px;
+        }
+        .custom-file-input {
+            display: none;
+        }
+        .custom-file-label {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="upload-box">
+        <i class="fas fa-cloud-upload-alt upload-icon"></i>
+        <h4>Upload a Document</h4>
+        <h7>RASE Tagging Integration</h7>&nbsp;
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".pdf, .doc, .docx, .html">
+            <input class="btn btn-primary mt-3" type="submit" value="Upload">
+        </form>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
